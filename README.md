@@ -196,8 +196,8 @@ Response:
 
 1. Clone the Repository
 
-git clone https://github.com/Manu-Prince/RewardApp.git
-cd Customer-Rewards-Application
+git clone https://github.com/Manu-Prince/CustomerRewardApplication.git
+cd CustomerRewardApplication
 
 2. Configure MySQL Database
 
